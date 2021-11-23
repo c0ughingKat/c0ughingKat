@@ -1,6 +1,6 @@
-### 🎈
+### Hey ;)
 
-<div align="center">
+<div style="display: flex">
   <a href="https://github.com/c0ughingKat">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=c0ughingKat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0ughingKat&layout=compact&langs_count=4&theme=dark  "/>
